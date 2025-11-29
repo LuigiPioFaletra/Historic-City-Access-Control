@@ -10,7 +10,6 @@ The goal of the project is to design and implement an **application for controll
 ```
 main_repository/
 │
-├── description.pdf
 ├── implementation/
 │ ├── Autobus.java
 │ ├── Automobile.java
@@ -26,6 +25,7 @@ main_repository/
 │ ├── Triciclo.java
 │ ├── Veicolo.java
 │ └── VeicoloEcologico.java
+├── description.pdf
 ├── LICENSE
 └── README.md
 ```
