@@ -25,6 +25,7 @@ main_repository/
 │ ├── Triciclo.java
 │ ├── Veicolo.java
 │ └── VeicoloEcologico.java
+│
 ├── description.pdf
 ├── LICENSE
 └── README.md
@@ -128,3 +129,9 @@ Once the server and client are running, the system can:
 - Determine access eligibility
 - Record results in text files per city
 - Issue fines if necessary
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
